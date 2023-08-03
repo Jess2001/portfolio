@@ -588,7 +588,7 @@ h3{
 	}
 	.card{
 		padding-bottom: 35px;
-		width:25%;
+	
 		
 	}
 	
@@ -698,7 +698,9 @@ h3{
 		display: flex;
 	}
 	.card{
-		width: 25%;
+		display: block;
+	    flex-direction: column;
+
 	}
 	/* End header */
 
